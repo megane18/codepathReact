@@ -86,8 +86,14 @@ const UpGrade =({title, description, buttonText, onClick}) => {
 }
 
 export default App
-/* feat: Implement clicker upgrades and multiplier system for Samosa Selector
 
+
+
+
+
+
+/* feat: Implement clicker upgrades and multiplier system for Samosa Selector
+added a few comments
 Added initial state management with count and multiplier using useState.
 Created click handler (updateCount) to increase count by the multiplier.
 Implemented upgrade functionality:
