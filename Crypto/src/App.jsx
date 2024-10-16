@@ -51,3 +51,4 @@ function App() {
 export default App
 
 //added react dependecies for onmygrind and Crypto
+//add .env to gitignore
